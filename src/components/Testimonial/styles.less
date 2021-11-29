@@ -1,0 +1,47 @@
+.doers {
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+    &__title {
+        font-size: 32px;
+        color: white;
+        font-weight: bold;
+        margin-bottom: 40px;
+    }
+
+    &__container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__item {
+        background-color: #232326;
+        border-radius: 5px;
+        width: 24%;
+        padding: 20px;
+        color: #f4f4f4;
+
+        > div {
+            display: flex;
+            align-items: center;
+        }
+    }
+
+
+
+    &__doer-info {
+        margin-left: 16px;
+
+    }
+    &__name {
+        margin-bottom: 0;
+        font-size: 10px;
+    }
+    &__company {
+        font-size: 8px;
+        opacity: 0.5;
+    }
+}
+

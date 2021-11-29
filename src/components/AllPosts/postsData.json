@@ -1,0 +1,58 @@
+[
+    {
+        "img": "Resala",
+        "postNumber": "A",
+        "postTitle": "Post Title",
+        "postDate": "Till 24/11/2021",
+        "postText": "Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor amet consectetur adipisicing elit Lorem ipsum dolor.",
+        "progressPercentage": "60",
+        "FundingGoal": "1,000,000",
+        "InterestRate": "12%",
+        "Tenor": "12 months",
+        "TotalInvested": "EGP 500,000",
+        "Investors": "5",
+        "SkinInTheGame": "5%"
+    },
+    {
+        "img": "ahlMasr",
+        "postNumber": "B",
+        "postTitle": "Post Title",
+        "postDate": "Till 26/11/2021",
+        "postText": "Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor amet consectetur adipisicing elit Lorem ipsum dolor.",
+        "progressPercentage": "70",
+        "FundingGoal": "2,000,000",
+        "InterestRate": "17%",
+        "Tenor": "10 months",
+        "TotalInvested": "EGP 700,000",
+        "Investors": "8",
+        "SkinInTheGame": "2%"
+    },
+    {
+        "img": "Resala",
+        "postNumber": "C",
+        "postTitle": "Post Title",
+        "postDate": "Till 27/11/2021",
+        "postText": "Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor amet consectetur adipisicing elit Lorem ipsum dolor.",
+        "progressPercentage": "80",
+        "FundingGoal": "1,000,000",
+        "InterestRate": "18%",
+        "Tenor": "8 months",
+        "TotalInvested": "EGP 900,000",
+        "Investors": "9",
+        "SkinInTheGame": "6%"
+    },
+    {
+        "img": "ahlMasr",
+        "postNumber": "D",
+        "postTitle": "Post Title",
+        "postDate": "Till 29/11/2021",
+        "postText": "Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor amet consectetur adipisicing elit Lorem ipsum dolor.",
+        "progressPercentage": "75",
+        "FundingGoal": "1,000,000",
+        "InterestRate": "17%",
+        "Tenor": "4 months",
+        "TotalInvested": "EGP 750,000",
+        "Investors": "3",
+        "SkinInTheGame": "4%"
+    }
+]
